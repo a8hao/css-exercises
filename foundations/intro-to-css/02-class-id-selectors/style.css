@@ -2,3 +2,17 @@
     background-color: pink;
     font-family: Verdana, "DejuVu Sans", sans-serif;
 }
+
+.third{
+    font-size: 24px;
+}
+
+#two{
+    color: blue;
+    font-size: 36px;
+}
+
+#forth{
+    font-weight: bold;
+    background-color: lightgreen; 
+}
