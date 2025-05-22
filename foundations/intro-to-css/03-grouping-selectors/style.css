@@ -2,7 +2,6 @@
 .noclick {
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
-
 }
 .click {
    background-color: black;
@@ -10,5 +9,4 @@
 }
 .noclick{
     background-color: yellow;
-    color: black;
 }
